@@ -58,18 +58,20 @@
     "url": "https://additionstudio.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/additionstudio.jau.co.jp",
     "slug": "addition-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2017,
-    "timeDay": 2499,
-    "timeWeek": 2105,
-    "timeMonth": 2017,
-    "timeYear": 2017,
-    "dailyMinutesDown": {}
+    "time": 1972,
+    "timeDay": 1918,
+    "timeWeek": 2009,
+    "timeMonth": 1972,
+    "timeYear": 1972,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "Subtle Bodies",
@@ -96,18 +98,20 @@
     "url": "https://seljak.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/seljak.jau.co.jp",
     "slug": "seljak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1394,
-    "timeDay": 1015,
-    "timeWeek": 1122,
-    "timeMonth": 1394,
-    "timeYear": 1394,
-    "dailyMinutesDown": {}
+    "time": 1343,
+    "timeDay": 847,
+    "timeWeek": 1067,
+    "timeMonth": 1343,
+    "timeYear": 1343,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "Less Plastic",
@@ -186,19 +190,19 @@
     "url": "https://botanica.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/botanica.jau.co.jp",
     "slug": "botanica",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 2461,
-    "timeDay": 2586,
-    "timeWeek": 2524,
-    "timeMonth": 2461,
-    "timeYear": 2461,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 2734,
+    "timeDay": 3489,
+    "timeWeek": 2940,
+    "timeMonth": 2734,
+    "timeYear": 2734,
     "dailyMinutesDown": {
-      "2021-05-20": 22
+      "2021-05-20": 29
     }
   },
   {
@@ -206,18 +210,20 @@
     "url": "https://champ.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/champ.jau.co.jp",
     "slug": "champ",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1678,
-    "timeDay": 6149,
-    "timeWeek": 1885,
-    "timeMonth": 1678,
-    "timeYear": 1678,
-    "dailyMinutesDown": {}
+    "time": 1572,
+    "timeDay": 3225,
+    "timeWeek": 1687,
+    "timeMonth": 1572,
+    "timeYear": 1572,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "Northern Light",
