@@ -256,17 +256,19 @@
     "url": "https://hhhwww.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/hhhwww.jau.co.jp",
     "slug": "hhhwww-stpre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4937,
-    "timeDay": 4974,
-    "timeWeek": 4906,
-    "timeMonth": 4937,
-    "timeYear": 4937,
-    "dailyMinutesDown": {}
+    "time": 4590,
+    "timeDay": 2701,
+    "timeWeek": 4346,
+    "timeMonth": 4590,
+    "timeYear": 4590,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   }
 ]
