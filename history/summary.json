@@ -76,18 +76,20 @@
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/subtle-bodies.jau.co.jp",
     "slug": "subtle-bodies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 1061,
-    "timeWeek": 1055,
-    "timeMonth": 1180,
-    "timeYear": 1180,
-    "dailyMinutesDown": {}
+    "time": 1121,
+    "timeDay": 712,
+    "timeWeek": 969,
+    "timeMonth": 1121,
+    "timeYear": 1121,
+    "dailyMinutesDown": {
+      "2021-05-20": 1
+    }
   },
   {
     "name": "Seljak",
@@ -184,18 +186,20 @@
     "url": "https://botanica.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/botanica.jau.co.jp",
     "slug": "botanica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2502,
-    "timeDay": 3490,
-    "timeWeek": 2626,
-    "timeMonth": 2502,
-    "timeYear": 2502,
-    "dailyMinutesDown": {}
+    "time": 2352,
+    "timeDay": 1949,
+    "timeWeek": 2349,
+    "timeMonth": 2352,
+    "timeYear": 2352,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "Champ",
