@@ -58,10 +58,10 @@
     "url": "https://additionstudio.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/additionstudio.jau.co.jp",
     "slug": "addition-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.83%",
     "time": 2546,
@@ -70,7 +70,7 @@
     "timeMonth": 2675,
     "timeYear": 2546,
     "dailyMinutesDown": {
-      "2021-06-24": 49,
+      "2021-06-24": 51,
       "2021-06-08": 33,
       "2021-05-20": 32
     }
@@ -80,11 +80,11 @@
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/subtle-bodies.jau.co.jp",
     "slug": "subtle-bodies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.70%",
     "time": 1827,
     "timeDay": 10041,
@@ -92,7 +92,7 @@
     "timeMonth": 2067,
     "timeYear": 1827,
     "dailyMinutesDown": {
-      "2021-06-24": 33,
+      "2021-06-24": 34,
       "2021-06-08": 33,
       "2021-05-25": 81,
       "2021-05-20": 53
