@@ -22,19 +22,19 @@
     "url": "https://jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/jau.co.jp",
     "slug": "jau",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1466,
-    "timeDay": 901,
-    "timeWeek": 1540,
-    "timeMonth": 1460,
-    "timeYear": 1466,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1459,
+    "timeDay": 941,
+    "timeWeek": 1470,
+    "timeMonth": 1445,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2021-07-12": 0
+      "2021-07-12": 9
     }
   },
   {
