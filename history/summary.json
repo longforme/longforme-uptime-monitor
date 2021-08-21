@@ -132,19 +132,19 @@
     "url": "https://lessplastic.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/lessplastic.jau.co.jp",
     "slug": "less-plastic",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 600,
-    "timeDay": 401,
-    "timeWeek": 1009,
-    "timeMonth": 736,
+    "timeDay": 474,
+    "timeWeek": 965,
+    "timeMonth": 732,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2021-08-21": 28
+      "2021-08-21": 106
     }
   },
   {
@@ -254,19 +254,19 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 430,
-    "timeDay": 181,
-    "timeWeek": 406,
-    "timeMonth": 459,
-    "timeYear": 430,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.65%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
+    "time": 431,
+    "timeDay": 304,
+    "timeWeek": 422,
+    "timeMonth": 462,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2021-08-21": 28
+      "2021-08-21": 106
     }
   },
   {
@@ -274,19 +274,19 @@
     "url": "https://hhhwww.jp",
     "icon": "https://favicons.githubusercontent.com/hhhwww.jp",
     "slug": "hhhwww",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
-    "time": 803,
-    "timeDay": 439,
-    "timeWeek": 777,
-    "timeMonth": 866,
-    "timeYear": 803,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
+    "time": 852,
+    "timeDay": 2301,
+    "timeWeek": 1360,
+    "timeMonth": 1022,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2021-08-21": 36
+      "2021-08-21": 114
     }
   },
   {
