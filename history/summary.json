@@ -132,11 +132,11 @@
     "url": "https://lessplastic.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/lessplastic.jau.co.jp",
     "slug": "less-plastic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 600,
     "timeDay": 401,
@@ -144,7 +144,7 @@
     "timeMonth": 736,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2021-08-21": 27
+      "2021-08-21": 28
     }
   },
   {
@@ -254,9 +254,9 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.13%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -266,7 +266,7 @@
     "timeMonth": 459,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2021-08-21": 27
+      "2021-08-21": 28
     }
   },
   {
@@ -276,9 +276,9 @@
     "slug": "hhhwww",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 803,
     "timeDay": 439,
@@ -286,7 +286,7 @@
     "timeMonth": 866,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2021-08-21": 26
+      "2021-08-21": 36
     }
   },
   {
