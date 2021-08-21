@@ -109,11 +109,11 @@
     "icon": "https://favicons.githubusercontent.com/seljak.jau.co.jp",
     "slug": "seljak",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 1646,
     "timeDay": 1731,
     "timeWeek": 2607,
@@ -132,10 +132,10 @@
     "url": "https://lessplastic.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/lessplastic.jau.co.jp",
     "slug": "less-plastic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
@@ -143,7 +143,9 @@
     "timeWeek": 1074,
     "timeMonth": 742,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 2
+    }
   },
   {
     "name": "Less Plastic Shop",
@@ -252,10 +254,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
@@ -263,16 +265,18 @@
     "timeWeek": 435,
     "timeMonth": 467,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 1
+    }
   },
   {
     "name": "HHHWWW",
     "url": "https://hhhwww.jp",
     "icon": "https://favicons.githubusercontent.com/hhhwww.jp",
     "slug": "hhhwww",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,7 +285,9 @@
     "timeWeek": 822,
     "timeMonth": 879,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 0
+    }
   },
   {
     "name": "HHHWWW stpre",
