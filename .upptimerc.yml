@@ -29,10 +29,13 @@ sites:
     url: https://champ.jau.co.jp
   - name: Northern Light
     url: https://northernlight.jau.co.jp
+  - name: MAHO
+    url: https://maho.jau.co.jp
   - name: HHHWWW
     url: https://hhhwww.jp
   - name: HHHWWW stpre
     url: https://hhhwww.jau.co.jp
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
