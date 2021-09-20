@@ -1,7 +1,7 @@
 url: https://jau.co.jp
-status: up
-code: 200
-responseTime: 1857
-lastUpdated: 2021-09-20T00:17:07.873Z
+status: down
+code: 503
+responseTime: 249
+lastUpdated: 2021-09-20T05:54:22.967Z
 startTime: Sun May 09 2021 10:25:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
