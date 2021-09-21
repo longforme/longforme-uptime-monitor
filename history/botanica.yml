@@ -1,7 +1,7 @@
 url: https://botanica.jau.co.jp
-status: up
-code: 200
-responseTime: 18440
-lastUpdated: 2021-09-21T13:09:51.565Z
+status: down
+code: 500
+responseTime: 23167
+lastUpdated: 2021-09-21T14:31:58.038Z
 startTime: Sun May 09 2021 10:33:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
