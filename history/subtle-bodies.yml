@@ -1,7 +1,7 @@
 url: https://subtle-bodies.jau.co.jp
-status: up
-code: 200
-responseTime: 1211
-lastUpdated: 2021-11-22T23:03:42.484Z
+status: down
+code: 500
+responseTime: 5011
+lastUpdated: 2021-11-23T02:52:59.375Z
 startTime: Sun May 09 2021 10:33:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
