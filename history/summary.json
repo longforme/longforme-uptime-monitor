@@ -243,8 +243,8 @@
     "slug": "botanica",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 4813,
@@ -253,7 +253,6 @@
     "timeMonth": 3476,
     "timeYear": 4813,
     "dailyMinutesDown": {
-      "2021-12-03": 1,
       "2021-09-21": 249,
       "2021-09-20": 47,
       "2021-09-19": 94,
