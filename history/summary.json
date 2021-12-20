@@ -160,10 +160,10 @@
     "url": "https://lessplastic.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/lessplastic.jau.co.jp",
     "slug": "less-plastic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 620,
@@ -172,6 +172,7 @@
     "timeMonth": 618,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2021-12-20": 1,
       "2021-12-18": 26,
       "2021-08-25": 23,
       "2021-08-21": 106
@@ -336,9 +337,9 @@
     "url": "https://hhhwww.jp",
     "icon": "https://favicons.githubusercontent.com/hhhwww.jp",
     "slug": "hhhwww",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -348,6 +349,7 @@
     "timeMonth": 814,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-08-25": 22,
       "2021-08-21": 114
     }
