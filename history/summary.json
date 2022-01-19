@@ -186,9 +186,9 @@
     "slug": "less-plastic-shop",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 257,
     "timeDay": 140,
@@ -196,7 +196,6 @@
     "timeMonth": 167,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-01-18": 15,
       "2021-10-01": 36,
       "2021-08-31": 19
     }
