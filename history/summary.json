@@ -184,10 +184,10 @@
     "url": "https://shop.lessplastic.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/shop.lessplastic.jau.co.jp",
     "slug": "less-plastic-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 259,
@@ -196,7 +196,7 @@
     "timeMonth": 182,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2022-01-19": 26,
+      "2022-01-19": 27,
       "2021-10-01": 36,
       "2021-08-31": 19
     }
@@ -305,9 +305,9 @@
     "slug": "northern-light",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "92.81%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.93%",
     "time": 285,
     "timeDay": 111,
@@ -315,7 +315,7 @@
     "timeMonth": 140,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-01-19": 82,
+      "2022-01-19": 68,
       "2022-01-18": 60,
       "2021-08-31": 19,
       "2021-08-21": 106
@@ -328,7 +328,7 @@
     "slug": "maho",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "91.67%",
+    "uptimeDay": "92.95%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.91%",
