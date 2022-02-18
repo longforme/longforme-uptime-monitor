@@ -355,9 +355,9 @@
     "slug": "northern-light",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "94.62%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "99.42%",
     "time": 278,
     "timeDay": 824,
@@ -365,7 +365,7 @@
     "timeMonth": 267,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-02-17": 60,
+      "2022-02-17": 51,
       "2022-02-16": 101,
       "2022-02-15": 73,
       "2022-02-14": 81,
@@ -392,7 +392,8 @@
       "2022-01-22": 38,
       "2022-01-21": 81,
       "2022-01-19": 108,
-      "2022-01-18": 60
+      "2022-01-18": 60,
+      "2021-08-31": 19
     }
   },
   {
@@ -408,7 +409,7 @@
     "uptimeYear": "98.84%",
     "time": 250,
     "timeDay": 139,
-    "timeWeek": 379,
+    "timeWeek": 385,
     "timeMonth": 216,
     "timeYear": 250,
     "dailyMinutesDown": {
