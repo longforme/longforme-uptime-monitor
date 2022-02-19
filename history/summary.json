@@ -259,9 +259,9 @@
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.64%",
     "time": 171,
-    "timeDay": 115,
+    "timeDay": 121,
     "timeWeek": 132,
-    "timeMonth": 161,
+    "timeMonth": 162,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-02-19": 61,
@@ -356,19 +356,19 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "96.12%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "95.01%",
-    "uptimeMonth": "94.79%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "99.45%",
     "time": 275,
-    "timeDay": 146,
+    "timeDay": 123,
     "timeWeek": 418,
     "timeMonth": 267,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-02-19": 56,
+      "2022-02-19": 57,
       "2022-02-18": 48,
       "2022-02-17": 51,
       "2022-02-16": 101,
@@ -395,8 +395,7 @@
       "2022-01-24": 90,
       "2022-01-23": 108,
       "2022-01-22": 38,
-      "2022-01-21": 81,
-      "2022-01-19": 40
+      "2022-01-21": 81
     }
   },
   {
@@ -405,18 +404,18 @@
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.86%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "98.86%",
     "time": 246,
-    "timeDay": 134,
+    "timeDay": 120,
     "timeWeek": 234,
     "timeMonth": 214,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-02-19": 63,
+      "2022-02-19": 48,
       "2022-02-18": 42,
       "2022-02-16": 160,
       "2022-02-15": 73,
@@ -445,7 +444,7 @@
       "2022-01-22": 140,
       "2022-01-21": 187,
       "2022-01-20": 40,
-      "2022-01-19": 40
+      "2022-01-19": 58
     }
   },
   {
