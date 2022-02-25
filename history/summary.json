@@ -372,10 +372,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "95.87%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "95.86%",
     "uptimeMonth": "94.91%",
     "uptimeYear": "99.46%",
     "time": 273,
@@ -384,7 +384,7 @@
     "timeMonth": 291,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-02-25": 78,
+      "2022-02-25": 79,
       "2022-02-24": 18,
       "2022-02-22": 74,
       "2022-02-21": 37,
@@ -412,7 +412,7 @@
       "2022-01-29": 65,
       "2022-01-28": 101,
       "2022-01-26": 30,
-      "2022-01-25": 135
+      "2022-01-25": 118
     }
   },
   {
