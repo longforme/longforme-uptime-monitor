@@ -269,12 +269,12 @@
     "uptime": "99.45%",
     "uptimeDay": "96.46%",
     "uptimeWeek": "91.51%",
-    "uptimeMonth": "95.69%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "99.45%",
     "time": 171,
     "timeDay": 111,
     "timeWeek": 169,
-    "timeMonth": 170,
+    "timeMonth": 166,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-02-25": 51,
@@ -375,10 +375,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.07%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "96.06%",
     "uptimeMonth": "95.16%",
     "uptimeYear": "99.46%",
     "time": 273,
@@ -387,6 +387,7 @@
     "timeMonth": 297,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2022-02-26": 1,
       "2022-02-25": 78,
       "2022-02-24": 18,
       "2022-02-22": 74,
@@ -415,7 +416,7 @@
       "2022-01-29": 65,
       "2022-01-28": 101,
       "2022-01-26": 30,
-      "2022-01-25": 135
+      "2022-01-25": 118
     }
   },
   {
@@ -423,19 +424,19 @@
     "url": "https://maho.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "98.99%",
     "time": 231,
     "timeDay": 85,
-    "timeWeek": 127,
-    "timeMonth": 209,
+    "timeWeek": 128,
+    "timeMonth": 210,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2022-02-26": 20,
+      "2022-02-26": 21,
       "2022-02-25": 45,
       "2022-02-24": 66,
       "2022-02-23": 210,
@@ -464,7 +465,7 @@
       "2022-01-30": 79,
       "2022-01-29": 88,
       "2022-01-28": 119,
-      "2022-01-26": 34
+      "2022-01-26": 17
     }
   },
   {
