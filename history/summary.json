@@ -188,13 +188,13 @@
     "slug": "less-plastic-shop",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "93.93%",
+    "uptimeDay": "95.04%",
     "uptimeWeek": "97.25%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.87%",
     "time": 242,
-    "timeDay": 362,
-    "timeWeek": 261,
+    "timeDay": 384,
+    "timeWeek": 267,
     "timeMonth": 198,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -267,17 +267,17 @@
     "slug": "posie",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "90.99%",
-    "uptimeMonth": "95.56%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "91.07%",
+    "uptimeMonth": "95.58%",
     "uptimeYear": "99.44%",
     "time": 170,
     "timeDay": 80,
-    "timeWeek": 164,
+    "timeWeek": 165,
     "timeMonth": 144,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-02-26": 70,
+      "2022-02-26": 62,
       "2022-02-25": 51,
       "2022-02-24": 115,
       "2022-02-23": 176,
@@ -313,7 +313,8 @@
       "2022-01-21": 43,
       "2022-01-20": 39,
       "2022-01-19": 17,
-      "2022-01-18": 85
+      "2022-01-18": 85,
+      "2021-10-01": 18
     }
   },
   {
@@ -374,19 +375,19 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "96.61%",
+    "uptimeDay": "96.57%",
     "uptimeWeek": "95.99%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "99.46%",
     "time": 272,
-    "timeDay": 170,
+    "timeDay": 179,
     "timeWeek": 240,
     "timeMonth": 293,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-02-26": 49,
+      "2022-02-26": 50,
       "2022-02-25": 78,
       "2022-02-24": 18,
       "2022-02-22": 74,
@@ -415,7 +416,7 @@
       "2022-01-29": 65,
       "2022-01-28": 101,
       "2022-01-26": 30,
-      "2022-01-25": 96
+      "2022-01-25": 79
     }
   },
   {
@@ -431,7 +432,7 @@
     "uptimeYear": "98.98%",
     "time": 231,
     "timeDay": 108,
-    "timeWeek": 130,
+    "timeWeek": 131,
     "timeMonth": 209,
     "timeYear": 231,
     "dailyMinutesDown": {
