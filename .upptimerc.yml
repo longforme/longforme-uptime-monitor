@@ -6,19 +6,13 @@ sites:
   - name: Long Forme
     url: https://longforme.com
   - name: JAU
-    url: https://jau.co.jp
-  - name: JAU Shop
-    url: https://shop.jau.co.jp
+    url: https://www.jau.co.jp
   - name: Addition Studio
     url: https://additionstudio.jau.co.jp
   - name: Subtle Bodies
     url: https://subtle-bodies.jau.co.jp
   - name: Seljak
     url: https://seljak.jau.co.jp
-  - name: Less Plastic
-    url: https://lessplastic.jau.co.jp
-  - name: Less Plastic Shop
-    url: https://shop.lessplastic.jau.co.jp
   - name: KeepCup
     url: https://keepcup.eco.jau.co.jp
   - name: Posie
@@ -33,7 +27,7 @@ sites:
     url: https://maho.jau.co.jp
   - name: HHHWWW
     url: https://hhhwww.jp
-  - name: HHHWWW stpre
+  - name: HHHWWW store
     url: https://hhhwww.jau.co.jp
 
 
