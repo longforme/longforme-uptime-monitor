@@ -146,7 +146,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.34%",
+    "uptimeWeek": "97.53%",
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.69%",
     "time": 177,
@@ -194,18 +194,17 @@
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "93.22%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "99.41%",
     "time": 159,
-    "timeDay": 111,
+    "timeDay": 152,
     "timeWeek": 91,
     "timeMonth": 130,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-03-08": 11,
       "2022-03-07": 26,
       "2022-03-05": 36,
       "2022-03-04": 67,
@@ -227,7 +226,7 @@
       "2022-02-15": 43,
       "2022-02-14": 53,
       "2022-02-13": 40,
-      "2022-02-12": 56
+      "2022-02-12": 95
     }
   },
   {
@@ -244,7 +243,7 @@
     "time": 4476,
     "timeDay": 2885,
     "timeWeek": 2526,
-    "timeMonth": 3320,
+    "timeMonth": 3298,
     "timeYear": 4476,
     "dailyMinutesDown": {
       "2021-09-21": 249,
@@ -272,7 +271,7 @@
     "time": 1565,
     "timeDay": 1155,
     "timeWeek": 961,
-    "timeMonth": 937,
+    "timeMonth": 939,
     "timeYear": 1565,
     "dailyMinutesDown": {
       "2021-09-20": 29,
@@ -288,19 +287,19 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "97.73%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "99.48%",
     "time": 257,
     "timeDay": 72,
-    "timeWeek": 115,
-    "timeMonth": 321,
+    "timeWeek": 116,
+    "timeMonth": 296,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-03-08": 32,
+      "2022-03-08": 33,
       "2022-03-07": 18,
       "2022-03-06": 38,
       "2022-03-04": 39,
@@ -333,7 +332,7 @@
       "2022-02-04": 49,
       "2022-02-03": 123,
       "2022-02-02": 94,
-      "2022-02-01": 82
+      "2022-02-01": 64
     }
   },
   {
@@ -400,7 +399,7 @@
     "time": 849,
     "timeDay": 895,
     "timeWeek": 901,
-    "timeMonth": 824,
+    "timeMonth": 827,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2022-03-08": 21,
