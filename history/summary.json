@@ -152,7 +152,7 @@
     "time": 177,
     "timeDay": 30,
     "timeWeek": 103,
-    "timeMonth": 180,
+    "timeMonth": 181,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2022-03-04": 22,
@@ -195,17 +195,16 @@
     "slug": "posie",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "94.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "94.19%",
     "uptimeYear": "99.42%",
     "time": 159,
-    "timeDay": 158,
+    "timeDay": 109,
     "timeWeek": 122,
     "timeMonth": 132,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-03-12": 10,
       "2022-03-11": 25,
       "2022-03-10": 23,
       "2022-03-07": 26,
@@ -229,7 +228,7 @@
       "2022-02-15": 43,
       "2022-02-14": 53,
       "2022-02-13": 40,
-      "2022-02-12": 17
+      "2022-02-12": 41
     }
   },
   {
@@ -294,12 +293,12 @@
     "uptime": "99.49%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "98.56%",
-    "uptimeMonth": "96.74%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.49%",
     "time": 254,
     "timeDay": 92,
-    "timeWeek": 90,
-    "timeMonth": 237,
+    "timeWeek": 91,
+    "timeMonth": 236,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2022-03-12": 18,
@@ -345,19 +344,19 @@
     "url": "https://maho.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "96.18%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.17%",
     "uptimeMonth": "94.80%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.99%",
     "time": 210,
-    "timeDay": 100,
+    "timeDay": 89,
     "timeWeek": 123,
     "timeMonth": 158,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-03-12": 54,
+      "2022-03-12": 55,
       "2022-03-11": 69,
       "2022-03-10": 40,
       "2022-03-09": 67,
@@ -388,8 +387,7 @@
       "2022-02-11": 44,
       "2022-02-10": 73,
       "2022-02-09": 62,
-      "2022-02-08": 50,
-      "2022-02-07": 39
+      "2022-02-08": 50
     }
   },
   {
