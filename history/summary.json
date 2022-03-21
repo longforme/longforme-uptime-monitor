@@ -152,7 +152,7 @@
     "time": 183,
     "timeDay": 24,
     "timeWeek": 586,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2022-03-04": 22,
@@ -193,19 +193,19 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "99.44%",
     "time": 158,
     "timeDay": 29,
     "timeWeek": 115,
     "timeMonth": 131,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-03-21": 15,
+      "2022-03-21": 16,
       "2022-03-19": 16,
       "2022-03-18": 66,
       "2022-03-16": 20,
@@ -230,7 +230,7 @@
       "2022-02-19": 61,
       "2022-02-18": 66,
       "2022-02-16": 68,
-      "2022-02-15": 43
+      "2022-02-15": 16
     }
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "97.76%",
+    "uptimeDay": "97.71%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.51%",
@@ -303,7 +303,7 @@
     "timeMonth": 159,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-03-21": 32,
+      "2022-03-21": 33,
       "2022-03-20": 23,
       "2022-03-19": 16,
       "2022-03-18": 16,
@@ -344,8 +344,7 @@
       "2022-02-07": 88,
       "2022-02-06": 69,
       "2022-02-05": 35,
-      "2022-02-04": 49,
-      "2022-02-03": 19
+      "2022-02-04": 49
     }
   },
   {
@@ -357,11 +356,11 @@
     "uptime": "99.02%",
     "uptimeDay": "93.04%",
     "uptimeWeek": "95.47%",
-    "uptimeMonth": "95.06%",
+    "uptimeMonth": "95.13%",
     "uptimeYear": "99.02%",
     "time": 205,
     "timeDay": 228,
-    "timeWeek": 128,
+    "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 205,
     "dailyMinutesDown": {
