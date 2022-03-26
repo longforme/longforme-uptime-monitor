@@ -193,19 +193,19 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "98.93%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 157,
     "timeDay": 103,
     "timeWeek": 119,
     "timeMonth": 108,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-03-26": 53,
+      "2022-03-26": 54,
       "2022-03-22": 19,
       "2022-03-21": 35,
       "2022-03-19": 16,
@@ -230,8 +230,7 @@
       "2022-02-21": 133,
       "2022-02-20": 200,
       "2022-02-19": 61,
-      "2022-02-18": 66,
-      "2022-02-16": 32
+      "2022-02-18": 66
     }
   },
   {
@@ -299,9 +298,9 @@
     "uptimeMonth": "98.10%",
     "uptimeYear": "99.51%",
     "time": 246,
-    "timeDay": 153,
+    "timeDay": 150,
     "timeWeek": 123,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2022-03-26": 45,
@@ -356,18 +355,18 @@
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.05%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "99.05%",
     "time": 201,
-    "timeDay": 74,
+    "timeDay": 83,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2022-03-26": 28,
+      "2022-03-26": 20,
       "2022-03-25": 53,
       "2022-03-22": 34,
       "2022-03-21": 77,
@@ -401,7 +400,8 @@
       "2022-02-21": 85,
       "2022-02-20": 117,
       "2022-02-19": 48,
-      "2022-02-18": 42
+      "2022-02-18": 42,
+      "2022-02-16": 31
     }
   },
   {
