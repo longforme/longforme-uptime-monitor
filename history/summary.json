@@ -152,7 +152,7 @@
     "time": 182,
     "timeDay": 27,
     "timeWeek": 62,
-    "timeMonth": 141,
+    "timeMonth": 140,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2022-03-04": 22,
@@ -194,18 +194,17 @@
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "99.43%",
     "time": 156,
     "timeDay": 36,
     "timeWeek": 109,
     "timeMonth": 106,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-03-31": 9,
       "2022-03-30": 101,
       "2022-03-28": 47,
       "2022-03-27": 44,
@@ -232,7 +231,8 @@
       "2022-02-23": 176,
       "2022-02-22": 152,
       "2022-02-21": 133,
-      "2022-02-20": 200
+      "2022-02-20": 200,
+      "2022-02-19": 16
     }
   },
   {
@@ -293,10 +293,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.18%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.17%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.52%",
     "time": 242,
@@ -305,6 +305,7 @@
     "timeMonth": 116,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2022-03-28": 72,
       "2022-03-27": 21,
       "2022-03-26": 45,
@@ -348,7 +349,7 @@
       "2022-02-10": 78,
       "2022-02-09": 62,
       "2022-02-08": 66,
-      "2022-02-07": 71
+      "2022-02-07": 52
     }
   },
   {
@@ -358,12 +359,12 @@
     "slug": "maho",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "89.06%",
+    "uptimeDay": "89.63%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "99.05%",
     "time": 196,
-    "timeDay": 88,
+    "timeDay": 91,
     "timeWeek": 86,
     "timeMonth": 125,
     "timeYear": 196,
