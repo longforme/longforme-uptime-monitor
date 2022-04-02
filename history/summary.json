@@ -295,7 +295,7 @@
     "slug": "northern-light",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "89.23%",
+    "uptimeDay": "91.49%",
     "uptimeWeek": "97.09%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "99.50%",
@@ -358,18 +358,18 @@
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "95.66%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.05%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "95.61%",
+    "uptimeYear": "99.05%",
     "time": 195,
     "timeDay": 73,
-    "timeWeek": 91,
+    "timeWeek": 93,
     "timeMonth": 124,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-04-01": 91,
+      "2022-04-01": 79,
       "2022-03-31": 61,
       "2022-03-30": 138,
       "2022-03-29": 25,
@@ -405,7 +405,7 @@
       "2022-02-25": 45,
       "2022-02-24": 66,
       "2022-02-23": 210,
-      "2022-02-22": 39
+      "2022-02-22": 69
     }
   },
   {
