@@ -13,7 +13,7 @@
     "time": 1324,
     "timeDay": 776,
     "timeWeek": 1371,
-    "timeMonth": 922,
+    "timeMonth": 864,
     "timeYear": 1324,
     "dailyMinutesDown": {
       "2021-09-20": 27,
@@ -35,7 +35,7 @@
     "time": 1397,
     "timeDay": 242,
     "timeWeek": 277,
-    "timeMonth": 422,
+    "timeMonth": 426,
     "timeYear": 1397,
     "dailyMinutesDown": {
       "2022-01-16": 30,
@@ -60,7 +60,7 @@
     "time": 2279,
     "timeDay": 57,
     "timeWeek": 221,
-    "timeMonth": 184,
+    "timeMonth": 164,
     "timeYear": 2279,
     "dailyMinutesDown": {
       "2022-02-09": 78,
@@ -93,7 +93,7 @@
     "time": 2474,
     "timeDay": 914,
     "timeWeek": 816,
-    "timeMonth": 919,
+    "timeMonth": 831,
     "timeYear": 2474,
     "dailyMinutesDown": {
       "2021-11-28": 51,
@@ -125,7 +125,7 @@
     "time": 1666,
     "timeDay": 609,
     "timeWeek": 762,
-    "timeMonth": 781,
+    "timeMonth": 768,
     "timeYear": 1666,
     "dailyMinutesDown": {
       "2021-09-20": 38,
@@ -147,12 +147,12 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 181,
     "timeDay": 173,
     "timeWeek": 90,
-    "timeMonth": 207,
+    "timeMonth": 217,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2022-03-04": 22,
@@ -197,12 +197,12 @@
     "uptime": "99.44%",
     "uptimeDay": "97.97%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "98.50%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.44%",
     "time": 157,
     "timeDay": 142,
     "timeWeek": 178,
-    "timeMonth": 127,
+    "timeMonth": 129,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-04-03": 81,
@@ -249,7 +249,7 @@
     "time": 4366,
     "timeDay": 3425,
     "timeWeek": 3975,
-    "timeMonth": 2808,
+    "timeMonth": 2826,
     "timeYear": 4366,
     "dailyMinutesDown": {
       "2021-09-21": 249,
@@ -277,7 +277,7 @@
     "time": 1515,
     "timeDay": 1083,
     "timeWeek": 989,
-    "timeMonth": 889,
+    "timeMonth": 878,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2021-09-20": 29,
@@ -358,19 +358,19 @@
     "url": "https://maho.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "99.06%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "99.07%",
     "time": 193,
     "timeDay": 101,
     "timeWeek": 108,
     "timeMonth": 119,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-04-04": 63,
+      "2022-04-04": 64,
       "2022-04-03": 63,
       "2022-04-02": 106,
       "2022-04-01": 79,
@@ -408,7 +408,7 @@
       "2022-02-26": 61,
       "2022-02-25": 45,
       "2022-02-24": 66,
-      "2022-02-23": 59
+      "2022-02-23": 43
     }
   },
   {
@@ -425,7 +425,7 @@
     "time": 835,
     "timeDay": 1053,
     "timeWeek": 783,
-    "timeMonth": 722,
+    "timeMonth": 717,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2022-03-08": 21,
@@ -449,7 +449,7 @@
     "time": 6649,
     "timeDay": 3785,
     "timeWeek": 6032,
-    "timeMonth": 6649,
+    "timeMonth": 6493,
     "timeYear": 6649,
     "dailyMinutesDown": {}
   }
