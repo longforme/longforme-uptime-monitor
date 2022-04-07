@@ -193,19 +193,19 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "97.57%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "97.56%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 156,
     "timeDay": 118,
     "timeWeek": 158,
     "timeMonth": 131,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-04-07": 17,
+      "2022-04-07": 18,
       "2022-04-06": 106,
       "2022-04-05": 41,
       "2022-04-03": 81,
@@ -234,7 +234,7 @@
       "2022-02-24": 115,
       "2022-02-23": 176,
       "2022-02-22": 152,
-      "2022-02-21": 133
+      "2022-02-21": 107
     }
   },
   {
