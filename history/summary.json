@@ -195,17 +195,16 @@
     "slug": "posie",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.01%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.46%",
     "time": 158,
     "timeDay": 38,
-    "timeWeek": 215,
+    "timeWeek": 217,
     "timeMonth": 148,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-04-14": 10,
       "2022-04-13": 48,
       "2022-04-12": 37,
       "2022-04-10": 55,
@@ -239,7 +238,7 @@
       "2022-02-25": 51,
       "2022-02-24": 115,
       "2022-02-23": 176,
-      "2022-02-22": 50
+      "2022-02-22": 71
     }
   },
   {
@@ -300,12 +299,12 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "97.28%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "97.27%",
     "uptimeMonth": "97.44%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 235,
     "timeDay": 249,
     "timeWeek": 203,
@@ -360,7 +359,7 @@
       "2022-02-17": 51,
       "2022-02-16": 101,
       "2022-02-15": 73,
-      "2022-02-14": 81
+      "2022-02-14": 66
     }
   },
   {
@@ -371,7 +370,7 @@
     "status": "up",
     "uptime": "99.10%",
     "uptimeDay": "97.11%",
-    "uptimeWeek": "94.22%",
+    "uptimeWeek": "94.39%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "99.10%",
     "time": 189,
