@@ -367,10 +367,10 @@
     "url": "https://maho.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "94.22%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "94.21%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "99.10%",
     "time": 189,
@@ -379,7 +379,7 @@
     "timeMonth": 121,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-04-14": 42,
+      "2022-04-14": 43,
       "2022-04-13": 54,
       "2022-04-12": 147,
       "2022-04-11": 89,
@@ -418,7 +418,7 @@
       "2022-03-07": 74,
       "2022-03-06": 19,
       "2022-03-05": 124,
-      "2022-03-04": 122
+      "2022-03-04": 101
     }
   },
   {
