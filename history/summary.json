@@ -308,7 +308,7 @@
     "uptimeYear": "99.49%",
     "time": 235,
     "timeDay": 110,
-    "timeWeek": 175,
+    "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -370,17 +370,17 @@
     "slug": "maho",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "99.10%",
     "time": 189,
     "timeDay": 137,
-    "timeWeek": 122,
+    "timeWeek": 97,
     "timeMonth": 123,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-04-14": 50,
+      "2022-04-14": 42,
       "2022-04-13": 54,
       "2022-04-12": 147,
       "2022-04-11": 89,
@@ -419,7 +419,7 @@
       "2022-03-07": 74,
       "2022-03-06": 19,
       "2022-03-05": 124,
-      "2022-03-04": 101
+      "2022-03-04": 122
     }
   },
   {
