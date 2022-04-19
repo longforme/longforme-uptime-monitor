@@ -143,10 +143,10 @@
     "url": "https://keepcup.eco.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/keepcup.eco.jau.co.jp",
     "slug": "keep-cup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 188,
@@ -155,6 +155,7 @@
     "timeMonth": 252,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2022-04-19": 1,
       "2022-03-04": 22,
       "2022-03-03": 107,
       "2022-03-02": 120,
@@ -193,10 +194,10 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.97%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "99.47%",
     "time": 156,
@@ -205,6 +206,7 @@
     "timeMonth": 143,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2022-04-19": 1,
       "2022-04-18": 32,
       "2022-04-17": 17,
       "2022-04-16": 64,
@@ -242,7 +244,7 @@
       "2022-02-26": 80,
       "2022-02-25": 51,
       "2022-02-24": 115,
-      "2022-02-23": 71
+      "2022-02-23": 53
     }
   },
   {
@@ -376,17 +378,17 @@
     "slug": "maho",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.31%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "95.33%",
     "uptimeYear": "99.12%",
     "time": 192,
     "timeDay": 767,
-    "timeWeek": 225,
+    "timeWeek": 229,
     "timeMonth": 149,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2022-04-19": 82,
+      "2022-04-19": 73,
       "2022-04-18": 18,
       "2022-04-17": 61,
       "2022-04-16": 111,
@@ -425,7 +427,7 @@
       "2022-03-12": 83,
       "2022-03-11": 69,
       "2022-03-10": 40,
-      "2022-03-09": 47
+      "2022-03-09": 67
     }
   },
   {
