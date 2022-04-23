@@ -310,10 +310,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "94.08%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "94.07%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.43%",
     "time": 239,
@@ -322,7 +322,7 @@
     "timeMonth": 197,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2022-04-23": 16,
+      "2022-04-23": 17,
       "2022-04-22": 17,
       "2022-04-21": 24,
       "2022-04-20": 132,
@@ -374,8 +374,7 @@
       "2022-02-22": 74,
       "2022-02-21": 37,
       "2022-02-20": 133,
-      "2022-02-19": 56,
-      "2022-02-18": 20
+      "2022-02-19": 56
     }
   },
   {
@@ -383,19 +382,19 @@
     "url": "https://maho.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/maho.jau.co.jp",
     "slug": "maho",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "97.05%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "97.04%",
     "uptimeMonth": "95.50%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 197,
     "timeDay": 121,
     "timeWeek": 400,
     "timeMonth": 175,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-04-23": 15,
+      "2022-04-23": 16,
       "2022-04-21": 24,
       "2022-04-20": 44,
       "2022-04-19": 73,
@@ -435,8 +434,7 @@
       "2022-03-14": 37,
       "2022-03-13": 54,
       "2022-03-12": 83,
-      "2022-03-11": 69,
-      "2022-03-10": 22
+      "2022-03-11": 69
     }
   },
   {
