@@ -144,9 +144,9 @@
     "url": "https://keepcup.eco.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/keepcup.eco.jau.co.jp",
     "slug": "keep-cup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.69%",
@@ -156,7 +156,7 @@
     "timeMonth": 380,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2022-04-24": 19,
+      "2022-04-24": 20,
       "2022-04-23": 53,
       "2022-04-22": 104,
       "2022-04-19": 17,
@@ -314,17 +314,16 @@
     "slug": "northern-light",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.43%",
     "time": 246,
-    "timeDay": 824,
+    "timeDay": 886,
     "timeWeek": 542,
-    "timeMonth": 239,
+    "timeMonth": 240,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-04-24": 7,
       "2022-04-23": 84,
       "2022-04-22": 17,
       "2022-04-21": 24,
@@ -376,7 +375,8 @@
       "2022-02-24": 18,
       "2022-02-22": 74,
       "2022-02-21": 37,
-      "2022-02-20": 133
+      "2022-02-20": 133,
+      "2022-02-19": 15
     }
   },
   {
@@ -386,17 +386,17 @@
     "slug": "maho",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "90.60%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "95.19%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "95.20%",
     "uptimeYear": "99.14%",
     "time": 202,
-    "timeDay": 723,
-    "timeWeek": 506,
+    "timeDay": 792,
+    "timeWeek": 515,
     "timeMonth": 198,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-04-24": 92,
+      "2022-04-24": 85,
       "2022-04-23": 59,
       "2022-04-21": 24,
       "2022-04-20": 44,
@@ -436,7 +436,7 @@
       "2022-03-15": 71,
       "2022-03-14": 37,
       "2022-03-13": 54,
-      "2022-03-12": 29
+      "2022-03-12": 49
     }
   },
   {
