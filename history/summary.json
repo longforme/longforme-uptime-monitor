@@ -198,19 +198,19 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/posie.jau.co.jp",
     "slug": "posie",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "84.09%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "84.04%",
     "uptimeWeek": "90.88%",
     "uptimeMonth": "96.20%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 173,
     "timeDay": 239,
     "timeWeek": 335,
     "timeMonth": 266,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-04-27": 229,
+      "2022-04-27": 230,
       "2022-04-26": 344,
       "2022-04-25": 162,
       "2022-04-24": 25,
@@ -249,8 +249,7 @@
       "2022-03-04": 67,
       "2022-03-03": 322,
       "2022-03-02": 221,
-      "2022-03-01": 176,
-      "2022-02-28": 5
+      "2022-03-01": 132
     }
   },
   {
@@ -312,18 +311,18 @@
     "icon": "https://favicons.githubusercontent.com/northernlight.jau.co.jp",
     "slug": "northern-light",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.41%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "95.35%",
+    "uptimeYear": "99.41%",
     "time": 244,
     "timeDay": 184,
     "timeWeek": 321,
     "timeMonth": 246,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-04-27": 100,
+      "2022-04-27": 86,
       "2022-04-26": 243,
       "2022-04-25": 70,
       "2022-04-23": 84,
@@ -372,7 +371,8 @@
       "2022-03-01": 85,
       "2022-02-28": 57,
       "2022-02-27": 93,
-      "2022-02-26": 75
+      "2022-02-26": 75,
+      "2022-02-25": 78
     }
   },
   {
