@@ -428,19 +428,19 @@
     "url": "https://hhhwww.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/hhhwww.jau.co.jp",
     "slug": "hhhwww-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6621,
-    "timeDay": 4547,
-    "timeWeek": 7629,
-    "timeMonth": 7124,
-    "timeYear": 6621,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 6655,
+    "timeDay": 7576,
+    "timeWeek": 8296,
+    "timeMonth": 7300,
+    "timeYear": 6655,
     "dailyMinutesDown": {
-      "2022-09-19": 2
+      "2022-09-19": 37
     }
   }
 ]
