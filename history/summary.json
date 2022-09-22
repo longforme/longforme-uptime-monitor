@@ -253,19 +253,19 @@
     "url": "https://champ.jau.co.jp",
     "icon": "https://favicons.githubusercontent.com/champ.jau.co.jp",
     "slug": "champ",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 1449,
-    "timeDay": 4308,
-    "timeWeek": 2180,
-    "timeMonth": 1380,
-    "timeYear": 1401,
+    "time": 1460,
+    "timeDay": 4607,
+    "timeWeek": 2509,
+    "timeMonth": 1506,
+    "timeYear": 1412,
     "dailyMinutesDown": {
-      "2022-09-22": 41
+      "2022-09-22": 69
     }
   },
   {
