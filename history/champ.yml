@@ -1,7 +1,7 @@
 url: https://champ.jau.co.jp
-status: up
-code: 200
-responseTime: 5019
-lastUpdated: 2023-09-14T09:17:12.566Z
+status: down
+code: 500
+responseTime: 548
+lastUpdated: 2023-09-14T09:24:20.274Z
 startTime: 2021-05-09T10:51:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
