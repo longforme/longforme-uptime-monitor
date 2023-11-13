@@ -58,19 +58,19 @@
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/subtle-bodies.jau.co.jp.ico",
     "slug": "subtle-bodies",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1059,
-    "timeDay": 324,
-    "timeWeek": 309,
-    "timeMonth": 302,
+    "time": 1058,
+    "timeDay": 348,
+    "timeWeek": 317,
+    "timeMonth": 304,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-11-13": 1
+      "2023-11-13": 6
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 2085,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2023-11-13": 636,
+      "2023-11-13": 641,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -315,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2023-11-13": 636,
+      "2023-11-13": 642,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
