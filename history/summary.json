@@ -4,19 +4,19 @@
     "url": "https://longforme.com",
     "icon": "https://icons.duckduckgo.com/ip3/longforme.com.ico",
     "slug": "long-forme",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 582,
-    "timeWeek": 530,
-    "timeMonth": 818,
-    "timeYear": 842,
+    "time": 1088,
+    "timeDay": 544,
+    "timeWeek": 527,
+    "timeMonth": 810,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-11-29": 1
+      "2023-11-29": 6
     }
   },
   {
@@ -165,7 +165,7 @@
     "timeMonth": 2661,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2023-11-29": 1282,
+      "2023-11-29": 1287,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2023-11-29": 1282,
+      "2023-11-29": 1287,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
