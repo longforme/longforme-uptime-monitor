@@ -40,19 +40,19 @@
     "url": "https://additionstudio.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/additionstudio.jau.co.jp.ico",
     "slug": "addition-studio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 638,
-    "timeWeek": 463,
-    "timeMonth": 428,
+    "timeDay": 487,
+    "timeWeek": 447,
+    "timeMonth": 425,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-12-07": 2
+      "2023-12-07": 7
     }
   },
   {
@@ -165,7 +165,7 @@
     "timeMonth": 2890,
     "timeYear": 1274,
     "dailyMinutesDown": {
-      "2023-12-07": 1016,
+      "2023-12-07": 1022,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-12-07": 1016,
+      "2023-12-07": 1022,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
