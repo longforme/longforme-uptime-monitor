@@ -163,7 +163,7 @@
     "timeMonth": 2918,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2023-12-08": 732,
+      "2023-12-08": 744,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -336,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-12-08": 733,
+      "2023-12-08": 744,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -669,19 +669,19 @@
     "url": "https://hhhwww.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jau.co.jp.ico",
     "slug": "hhhwww-store",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4827,
-    "timeDay": 955,
-    "timeWeek": 1115,
-    "timeMonth": 1608,
-    "timeYear": 4296,
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 4834,
+    "timeDay": 5124,
+    "timeWeek": 2137,
+    "timeMonth": 1834,
+    "timeYear": 4309,
     "dailyMinutesDown": {
-      "2023-12-08": 1,
+      "2023-12-08": 11,
       "2023-06-14": 15
     }
   }
