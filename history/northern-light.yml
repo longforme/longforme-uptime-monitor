@@ -1,7 +1,7 @@
 url: https://northernlight.jau.co.jp
-status: up
-code: 200
-responseTime: 263
-lastUpdated: 2024-01-16T23:00:59.726Z
+status: down
+code: 500
+responseTime: 1186
+lastUpdated: 2024-01-17T21:43:58.322Z
 startTime: 2021-05-09T10:51:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
