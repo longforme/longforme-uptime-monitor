@@ -115,19 +115,19 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/posie.jau.co.jp.ico",
     "slug": "posie",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 300,
-    "timeWeek": 239,
-    "timeMonth": 373,
-    "timeYear": 355,
+    "time": 360,
+    "timeDay": 2806,
+    "timeWeek": 873,
+    "timeMonth": 528,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-02-25": 1
+      "2024-02-25": 6
     }
   },
   {
@@ -165,7 +165,7 @@
     "timeMonth": 2382,
     "timeYear": 1696,
     "dailyMinutesDown": {
-      "2024-02-25": 702,
+      "2024-02-25": 708,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-25": 702,
+      "2024-02-25": 708,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
