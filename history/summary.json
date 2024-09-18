@@ -4,10 +4,10 @@
     "url": "https://longforme.com",
     "icon": "https://icons.duckduckgo.com/ip3/longforme.com.ico",
     "slug": "long-forme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
@@ -15,7 +15,9 @@
     "timeWeek": 569,
     "timeMonth": 520,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 1
+    }
   },
   {
     "name": "JAU",
@@ -160,7 +162,7 @@
     "timeMonth": 370,
     "timeYear": 1722,
     "dailyMinutesDown": {
-      "2024-09-18": 1214,
+      "2024-09-18": 1249,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -569,7 +571,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jp.ico",
     "slug": "hhhwww",
     "status": "down",
-    "uptime": "50.30%",
+    "uptime": "50.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -580,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 1214,
+      "2024-09-18": 1250,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
