@@ -6,9 +6,9 @@
     "slug": "long-forme",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 686,
     "timeDay": 537,
@@ -16,7 +16,7 @@
     "timeMonth": 520,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-09-18": 1
+      "2024-09-18": 26
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 370,
     "timeYear": 1722,
     "dailyMinutesDown": {
-      "2024-09-18": 1249,
+      "2024-09-18": 1275,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 1250,
+      "2024-09-18": 1275,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -954,19 +954,19 @@
     "url": "https://hhhwww.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jau.co.jp.ico",
     "slug": "hhhwww-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2134,
+    "time": 2115,
     "timeDay": 15095,
     "timeWeek": 5899,
     "timeMonth": 2577,
     "timeYear": 1862,
     "dailyMinutesDown": {
-      "2024-09-18": 17,
+      "2024-09-18": 18,
       "2024-01-09": 150,
       "2023-12-29": 31
     }
