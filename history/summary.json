@@ -24,126 +24,140 @@
     "url": "https://www.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.jau.co.jp.ico",
     "slug": "jau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 403,
     "timeWeek": 320,
     "timeMonth": 342,
     "timeYear": 360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 4
+    }
   },
   {
     "name": "Addition Studio",
     "url": "https://additionstudio.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/additionstudio.jau.co.jp.ico",
     "slug": "addition-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 407,
+    "time": 408,
     "timeDay": 285,
     "timeWeek": 348,
     "timeMonth": 337,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 4
+    }
   },
   {
     "name": "Subtle Bodies",
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/subtle-bodies.jau.co.jp.ico",
     "slug": "subtle-bodies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 364,
+    "time": 361,
     "timeDay": 178,
     "timeWeek": 291,
     "timeMonth": 315,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 3
+    }
   },
   {
     "name": "Seljak",
     "url": "https://seljak.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/seljak.jau.co.jp.ico",
     "slug": "seljak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 222,
     "timeWeek": 293,
     "timeMonth": 342,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 3
+    }
   },
   {
     "name": "KeepCup",
     "url": "https://keepcup.eco.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/keepcup.eco.jau.co.jp.ico",
     "slug": "keep-cup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 269,
     "timeWeek": 231,
     "timeMonth": 242,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 3
+    }
   },
   {
     "name": "Posie",
     "url": "https://posie.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/posie.jau.co.jp.ico",
     "slug": "posie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 362,
+    "time": 363,
     "timeDay": 170,
     "timeWeek": 265,
     "timeMonth": 278,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "Botanica",
     "url": "https://botanica.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/botanica.jau.co.jp.ico",
     "slug": "botanica",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
+    "time": 382,
     "timeDay": 361,
     "timeWeek": 306,
     "timeMonth": 323,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "Champ",
@@ -151,7 +165,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/champ.jau.co.jp.ico",
     "slug": "champ",
     "status": "down",
-    "uptime": "65.60%",
+    "uptime": "65.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -162,7 +176,7 @@
     "timeMonth": 366,
     "timeYear": 1618,
     "dailyMinutesDown": {
-      "2024-10-22": 6,
+      "2024-10-22": 252,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -534,10 +548,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/northernlight.jau.co.jp.ico",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
@@ -545,17 +559,19 @@
     "timeWeek": 227,
     "timeMonth": 247,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "MAHO",
     "url": "https://maho.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/maho.jau.co.jp.ico",
     "slug": "maho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
@@ -563,7 +579,9 @@
     "timeWeek": 164,
     "timeMonth": 199,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "HHHWWW",
@@ -582,7 +600,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 6,
+      "2024-10-22": 253,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
