@@ -78,19 +78,19 @@
     "url": "https://seljak.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/seljak.jau.co.jp.ico",
     "slug": "seljak",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 297,
+    "time": 395,
+    "timeDay": 269,
     "timeWeek": 240,
-    "timeMonth": 317,
+    "timeMonth": 315,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-01-12": 1
+      "2025-01-12": 10
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 278,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-01-12": 789,
+      "2025-01-12": 798,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -584,7 +584,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 789,
+      "2025-01-12": 799,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
