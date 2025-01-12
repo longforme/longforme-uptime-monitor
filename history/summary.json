@@ -78,10 +78,10 @@
     "url": "https://seljak.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/seljak.jau.co.jp.ico",
     "slug": "seljak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 397,
@@ -89,7 +89,9 @@
     "timeWeek": 240,
     "timeMonth": 317,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-12": 1
+    }
   },
   {
     "name": "KeepCup",
@@ -151,7 +153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/champ.jau.co.jp.ico",
     "slug": "champ",
     "status": "down",
-    "uptime": "61.59%",
+    "uptime": "61.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -162,7 +164,7 @@
     "timeMonth": 278,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-01-12": 6,
+      "2025-01-12": 789,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -571,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jp.ico",
     "slug": "hhhwww",
     "status": "down",
-    "uptime": "45.98%",
+    "uptime": "45.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -582,7 +584,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 6,
+      "2025-01-12": 789,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
