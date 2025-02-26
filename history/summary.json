@@ -162,7 +162,7 @@
     "timeMonth": 449,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-02-26": 878,
+      "2025-02-26": 886,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-26": 878,
+      "2025-02-26": 886,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -954,19 +954,19 @@
     "url": "https://hhhwww.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jau.co.jp.ico",
     "slug": "hhhwww-store",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1785,
-    "timeDay": 834,
-    "timeWeek": 1597,
-    "timeMonth": 1403,
-    "timeYear": 1607,
+    "time": 1797,
+    "timeDay": 2963,
+    "timeWeek": 2222,
+    "timeMonth": 1579,
+    "timeYear": 1622,
     "dailyMinutesDown": {
-      "2025-02-26": 1,
+      "2025-02-26": 8,
       "2024-09-18": 17
     }
   }
