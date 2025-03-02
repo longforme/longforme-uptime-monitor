@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 679,
-    "timeDay": 381,
-    "timeWeek": 704,
-    "timeMonth": 574,
+    "time": 680,
+    "timeDay": 638,
+    "timeWeek": 730,
+    "timeMonth": 573,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2024-09-18": 33
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
+    "time": 416,
     "timeDay": 1224,
-    "timeWeek": 741,
-    "timeMonth": 863,
-    "timeYear": 429,
+    "timeWeek": 810,
+    "timeMonth": 889,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 347,
-    "timeWeek": 396,
-    "timeMonth": 331,
-    "timeYear": 356,
+    "timeDay": 565,
+    "timeWeek": 403,
+    "timeMonth": 336,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 508,
-    "timeWeek": 446,
-    "timeMonth": 460,
-    "timeYear": 362,
+    "timeDay": 655,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 411,
-    "timeWeek": 500,
-    "timeMonth": 350,
-    "timeYear": 357,
+    "time": 375,
+    "timeDay": 1135,
+    "timeWeek": 650,
+    "timeMonth": 381,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   },
   {
@@ -103,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 198,
-    "timeWeek": 235,
-    "timeMonth": 236,
-    "timeYear": 273,
+    "timeDay": 305,
+    "timeWeek": 254,
+    "timeMonth": 241,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -121,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 275,
-    "timeWeek": 260,
-    "timeMonth": 250,
+    "timeDay": 302,
+    "timeWeek": 287,
+    "timeMonth": 255,
     "timeYear": 335,
     "dailyMinutesDown": {}
   },
@@ -139,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 258,
-    "timeWeek": 335,
-    "timeMonth": 273,
-    "timeYear": 336,
+    "timeDay": 434,
+    "timeWeek": 386,
+    "timeMonth": 277,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   },
   {
@@ -151,18 +151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/champ.jau.co.jp.ico",
     "slug": "champ",
     "status": "down",
-    "uptime": "59.47%",
+    "uptime": "59.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.97%",
     "uptimeYear": "0.03%",
     "time": 1284,
-    "timeDay": 257,
-    "timeWeek": 813,
-    "timeMonth": 565,
+    "timeDay": 300,
+    "timeWeek": 724,
+    "timeMonth": 560,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-03-01": 6,
+      "2025-03-02": 6,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -525,8 +526,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -541,9 +541,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 406,
-    "timeWeek": 266,
-    "timeMonth": 225,
+    "timeDay": 319,
+    "timeWeek": 302,
+    "timeMonth": 231,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -559,9 +559,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 250,
-    "timeWeek": 138,
-    "timeMonth": 117,
+    "timeDay": 220,
+    "timeWeek": 148,
+    "timeMonth": 122,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -571,7 +571,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jp.ico",
     "slug": "hhhwww",
     "status": "down",
-    "uptime": "44.40%",
+    "uptime": "44.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -582,7 +582,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-01": 6,
+      "2025-03-02": 6,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -945,8 +946,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -960,11 +960,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1797,
-    "timeDay": 1574,
-    "timeWeek": 2283,
-    "timeMonth": 1596,
-    "timeYear": 1624,
+    "time": 1795,
+    "timeDay": 738,
+    "timeWeek": 1797,
+    "timeMonth": 1564,
+    "timeYear": 1623,
     "dailyMinutesDown": {
       "2024-09-18": 17
     }
