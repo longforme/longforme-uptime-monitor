@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.43%",
-    "uptimeMonth": "80.31%",
+    "uptimeWeek": "14.36%",
+    "uptimeMonth": "80.29%",
     "uptimeYear": "98.35%",
     "time": 676,
     "timeDay": 536,
@@ -16,7 +16,7 @@
     "timeMonth": 952,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2025-03-19": 1368,
+      "2025-03-19": 1376,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -67,19 +67,19 @@
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/subtle-bodies.jau.co.jp.ico",
     "slug": "subtle-bodies",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 478,
-    "timeWeek": 422,
-    "timeMonth": 430,
-    "timeYear": 368,
+    "time": 384,
+    "timeDay": 4189,
+    "timeWeek": 1356,
+    "timeMonth": 688,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-03-19": 0
+      "2025-03-19": 7
     }
   },
   {
@@ -87,9 +87,9 @@
     "url": "https://seljak.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/seljak.jau.co.jp.ico",
     "slug": "seljak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +98,9 @@
     "timeWeek": 361,
     "timeMonth": 396,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-19": 0
+    }
   },
   {
     "name": "KeepCup",
@@ -171,7 +173,7 @@
     "timeMonth": 920,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-03-19": 1368,
+      "2025-03-19": 1376,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -591,7 +593,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 1369,
+      "2025-03-19": 1376,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -966,16 +968,16 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.45%",
-    "uptimeMonth": "80.31%",
-    "uptimeYear": "98.36%",
+    "uptimeWeek": "14.38%",
+    "uptimeMonth": "80.30%",
+    "uptimeYear": "98.35%",
     "time": 1789,
     "timeDay": 949,
     "timeWeek": 1474,
     "timeMonth": 1627,
     "timeYear": 1618,
     "dailyMinutesDown": {
-      "2025-03-19": 1369,
+      "2025-03-19": 1376,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
