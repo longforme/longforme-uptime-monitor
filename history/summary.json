@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/longforme.com.ico",
     "slug": "long-forme",
     "status": "up",
-    "uptime": "90.20%",
+    "uptime": "90.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.34%",
+    "uptimeYear": "58.11%",
     "time": 655,
     "timeDay": 721,
     "timeWeek": 761,
     "timeMonth": 653,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-08-13": 6,
+      "2025-08-13": 1185,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -178,27 +178,29 @@
     "url": "https://www.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.jau.co.jp.ico",
     "slug": "jau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
+    "time": 571,
     "timeDay": 1033,
     "timeWeek": 540,
     "timeMonth": 770,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "Addition Studio",
     "url": "https://additionstudio.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/additionstudio.jau.co.jp.ico",
     "slug": "addition-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -208,6 +210,7 @@
     "timeMonth": 358,
     "timeYear": 360,
     "dailyMinutesDown": {
+      "2025-08-13": 0,
       "2025-04-03": 36
     }
   },
@@ -216,9 +219,9 @@
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/subtle-bodies.jau.co.jp.ico",
     "slug": "subtle-bodies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -228,6 +231,7 @@
     "timeMonth": 575,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2025-08-13": 0,
       "2025-04-03": 36
     }
   },
@@ -236,9 +240,9 @@
     "url": "https://seljak.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/seljak.jau.co.jp.ico",
     "slug": "seljak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -248,6 +252,7 @@
     "timeMonth": 343,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2025-08-13": 0,
       "2025-04-03": 36
     }
   },
@@ -256,9 +261,9 @@
     "url": "https://keepcup.eco.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/keepcup.eco.jau.co.jp.ico",
     "slug": "keep-cup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -268,6 +273,7 @@
     "timeMonth": 375,
     "timeYear": 281,
     "dailyMinutesDown": {
+      "2025-08-13": 1,
       "2025-04-03": 35
     }
   },
@@ -276,10 +282,10 @@
     "url": "https://posie.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/posie.jau.co.jp.ico",
     "slug": "posie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 364,
@@ -288,6 +294,7 @@
     "timeMonth": 860,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2025-08-13": 1,
       "2025-04-03": 36
     }
   },
@@ -296,10 +303,10 @@
     "url": "https://botanica.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/botanica.jau.co.jp.ico",
     "slug": "botanica",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 328,
@@ -308,6 +315,7 @@
     "timeMonth": 371,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2025-08-13": 1,
       "2025-04-03": 36
     }
   },
@@ -317,7 +325,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/champ.jau.co.jp.ico",
     "slug": "champ",
     "status": "down",
-    "uptime": "53.17%",
+    "uptime": "53.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -328,7 +336,7 @@
     "timeMonth": 337,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-08-13": 7,
+      "2025-08-13": 1185,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -700,10 +708,10 @@
     "url": "https://northernlight.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/northernlight.jau.co.jp.ico",
     "slug": "northern-light",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
@@ -711,17 +719,19 @@
     "timeWeek": 237,
     "timeMonth": 306,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 1
+    }
   },
   {
     "name": "MAHO",
     "url": "https://maho.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/maho.jau.co.jp.ico",
     "slug": "maho",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
@@ -730,6 +740,7 @@
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2025-08-13": 1,
       "2025-04-03": 36
     }
   },
@@ -739,7 +750,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jp.ico",
     "slug": "hhhwww",
     "status": "down",
-    "uptime": "39.69%",
+    "uptime": "39.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -750,7 +761,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 7,
+      "2025-08-13": 1186,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -1123,18 +1134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jau.co.jp.ico",
     "slug": "hhhwww-store",
     "status": "up",
-    "uptime": "87.89%",
+    "uptime": "87.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.34%",
+    "uptimeYear": "58.12%",
     "time": 1542,
     "timeDay": 1272,
     "timeWeek": 1278,
     "timeMonth": 1249,
     "timeYear": 1527,
     "dailyMinutesDown": {
-      "2025-08-13": 7,
+      "2025-08-13": 1186,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
