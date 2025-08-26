@@ -16,7 +16,8 @@
     "timeMonth": 628,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2025-08-25": 1424,
+      "2025-08-26": 6,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -192,17 +193,17 @@
     "slug": "jau",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 586,
+    "time": 585,
     "timeDay": 779,
     "timeWeek": 842,
     "timeMonth": 731,
-    "timeYear": 654,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-08-25": 39
+      "2025-08-25": 32
     }
   },
   {
@@ -212,9 +213,9 @@
     "slug": "addition-studio",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 355,
     "timeDay": 333,
@@ -222,7 +223,7 @@
     "timeMonth": 343,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-08-25": 23,
+      "2025-08-25": 16,
       "2025-04-03": 36
     }
   },
@@ -233,9 +234,9 @@
     "slug": "subtle-bodies",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 445,
     "timeDay": 339,
@@ -243,7 +244,7 @@
     "timeMonth": 540,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2025-08-25": 22,
+      "2025-08-25": 16,
       "2025-04-03": 36
     }
   },
@@ -254,9 +255,9 @@
     "slug": "seljak",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 352,
     "timeDay": 370,
@@ -264,7 +265,7 @@
     "timeMonth": 325,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-08-25": 22,
+      "2025-08-25": 16,
       "2025-04-03": 36
     }
   },
@@ -275,9 +276,9 @@
     "slug": "keep-cup",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 281,
     "timeDay": 288,
@@ -285,7 +286,7 @@
     "timeMonth": 297,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-08-25": 21,
+      "2025-08-25": 15,
       "2025-04-03": 35
     }
   },
@@ -295,10 +296,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/posie.jau.co.jp.ico",
     "slug": "posie",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 383,
     "timeDay": 949,
@@ -306,7 +307,6 @@
     "timeMonth": 785,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2025-08-25": 5,
       "2025-04-03": 36
     }
   },
@@ -317,9 +317,9 @@
     "slug": "botanica",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 333,
     "timeDay": 420,
@@ -327,7 +327,6 @@
     "timeMonth": 401,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-08-25": 5,
       "2025-04-03": 36
     }
   },
@@ -348,7 +347,8 @@
     "timeMonth": 320,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-08-25": 1425,
+      "2025-08-26": 6,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -711,8 +711,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -722,18 +721,16 @@
     "slug": "northern-light",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 351,
     "timeWeek": 313,
     "timeMonth": 313,
     "timeYear": 261,
-    "dailyMinutesDown": {
-      "2025-08-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MAHO",
@@ -742,9 +739,9 @@
     "slug": "maho",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 168,
     "timeDay": 91,
@@ -752,7 +749,6 @@
     "timeMonth": 141,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-08-25": 4,
       "2025-04-03": 36
     }
   },
@@ -773,7 +769,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1425,
+      "2025-08-26": 6,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -1136,8 +1133,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -1157,7 +1153,8 @@
     "timeMonth": 1317,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2025-08-25": 1425,
+      "2025-08-26": 6,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
