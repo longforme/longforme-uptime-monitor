@@ -1,7 +1,7 @@
 url: https://keepcup.eco.jau.co.jp
-status: up
-code: 200
-responseTime: 406
-lastUpdated: 2025-10-19T23:00:44.621Z
+status: down
+code: 500
+responseTime: 3236
+lastUpdated: 2025-10-20T06:53:51.364Z
 startTime: 2021-05-09T10:33:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
