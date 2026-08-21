@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/longforme.com.ico",
     "slug": "long-forme",
     "status": "up",
-    "uptime": "72.76%",
+    "uptime": "72.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 946,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2026-08-21": 40,
+      "2026-08-21": 387,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -438,10 +438,10 @@
     "url": "https://subtle-bodies.jau.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/subtle-bodies.jau.co.jp.ico",
     "slug": "subtle-bodies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 612,
@@ -456,7 +456,8 @@
       "2025-09-01": 16,
       "2025-09-02": 26,
       "2025-09-21": 26,
-      "2026-04-26": 36
+      "2026-04-26": 36,
+      "2026-08-21": 1
     }
   },
   {
@@ -574,7 +575,7 @@
     "timeMonth": 272,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2026-08-21": 40,
+      "2026-08-21": 388,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -993,7 +994,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jp.ico",
     "slug": "hhhwww",
     "status": "down",
-    "uptime": "32.02%",
+    "uptime": "32.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1004,7 +1005,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 40,
+      "2026-08-21": 388,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1381,7 +1382,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.35%",
+    "uptimeYear": "87.41%",
     "time": 1946,
     "timeDay": 5942,
     "timeWeek": 3304,
