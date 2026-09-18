@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longforme.com.ico",
     "slug": "long-forme",
     "status": "up",
-    "uptime": "71.76%",
+    "uptime": "71.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 875,
-    "timeDay": 1053,
-    "timeWeek": 2107,
-    "timeMonth": 1636,
-    "timeYear": 970,
+    "time": 876,
+    "timeDay": 726,
+    "timeWeek": 2029,
+    "timeMonth": 1641,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2026-09-17": 142,
+      "2026-09-18": 128,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -379,8 +380,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 458,
-    "timeWeek": 553,
-    "timeMonth": 591,
-    "timeYear": 660,
+    "time": 688,
+    "timeDay": 840,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-09-21": 26
     }
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 444,
-    "timeWeek": 359,
-    "timeMonth": 368,
+    "time": 375,
+    "timeDay": 489,
+    "timeWeek": 374,
+    "timeMonth": 367,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-09-21": 26
@@ -435,9 +435,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 617,
-    "timeDay": 847,
-    "timeWeek": 856,
-    "timeMonth": 743,
+    "timeDay": 606,
+    "timeWeek": 828,
+    "timeMonth": 740,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2025-09-21": 26,
@@ -457,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 359,
-    "timeWeek": 425,
-    "timeMonth": 434,
+    "timeDay": 450,
+    "timeWeek": 419,
+    "timeMonth": 432,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-09-21": 26
@@ -477,9 +477,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 310,
-    "timeDay": 468,
-    "timeWeek": 344,
-    "timeMonth": 336,
+    "timeDay": 246,
+    "timeWeek": 323,
+    "timeMonth": 334,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-09-21": 26,
@@ -498,10 +498,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 513,
-    "timeWeek": 396,
+    "timeDay": 535,
+    "timeWeek": 421,
     "timeMonth": 458,
-    "timeYear": 594,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2025-09-21": 26
     }
@@ -518,10 +518,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 535,
-    "timeWeek": 377,
-    "timeMonth": 388,
-    "timeYear": 398,
+    "timeDay": 400,
+    "timeWeek": 392,
+    "timeMonth": 387,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2025-09-21": 26
     }
@@ -532,18 +532,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/champ.jau.co.jp.ico",
     "slug": "champ",
     "status": "down",
-    "uptime": "42.30%",
+    "uptime": "42.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 325,
-    "timeDay": 220,
-    "timeWeek": 221,
-    "timeMonth": 234,
-    "timeYear": 303,
+    "timeDay": 175,
+    "timeWeek": 216,
+    "timeMonth": 233,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-09-17": 142,
+      "2026-09-18": 128,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -906,8 +907,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   },
   {
@@ -922,9 +922,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 462,
-    "timeWeek": 284,
-    "timeMonth": 326,
+    "timeDay": 253,
+    "timeWeek": 273,
+    "timeMonth": 324,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2025-09-21": 26
@@ -941,10 +941,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 176,
-    "timeWeek": 353,
-    "timeMonth": 371,
+    "time": 212,
+    "timeDay": 353,
+    "timeWeek": 322,
+    "timeMonth": 376,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2025-09-21": 26
@@ -956,7 +956,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jp.ico",
     "slug": "hhhwww",
     "status": "down",
-    "uptime": "31.58%",
+    "uptime": "31.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -967,7 +967,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-17": 143,
+      "2026-09-18": 128,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -1330,8 +1331,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   },
   {
@@ -1340,16 +1340,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hhhwww.jau.co.jp.ico",
     "slug": "hhhwww-store",
     "status": "up",
-    "uptime": "87.54%",
+    "uptime": "87.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.77%",
-    "time": 2174,
-    "timeDay": 1321,
-    "timeWeek": 5027,
-    "timeMonth": 5375,
-    "timeYear": 2476,
+    "uptimeYear": "95.04%",
+    "time": 2184,
+    "timeDay": 5889,
+    "timeWeek": 5091,
+    "timeMonth": 5500,
+    "timeYear": 2489,
     "dailyMinutesDown": {
       "2025-10-06": 296,
       "2025-10-05": 1440,
@@ -1368,8 +1368,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   }
 ]
